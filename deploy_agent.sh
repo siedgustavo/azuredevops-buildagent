@@ -1,0 +1,1 @@
+docker run -e AZP_URL=https://dev.azure.com/pmy-isros/ -e AZP_AGENT_NAME=dkubuntuagent -e AZP_POOL="xxxxxxxxxxxxxxxxxxxxx" -e AZP_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx azuredevops-dockeragent:latest
